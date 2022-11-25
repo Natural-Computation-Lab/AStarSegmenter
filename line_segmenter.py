@@ -34,8 +34,8 @@ NUM_OF_VERTICAL_ZONES = 8
 
 # peak detection
 TH_PEAK = 10
-DISTANCE_PK = 35#35#moccia-santgall
-PROMINANCE_PK = 100#100#moccia-santgall
+DISTANCE_PK = 35
+PROMINANCE_PK = 100
 
 
 # Constants ------------------
